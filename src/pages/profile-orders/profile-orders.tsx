@@ -1,10 +1,19 @@
 import { ProfileOrdersUI } from '@ui-pages';
-import { TOrder } from '@utils-types';
-import { FC } from 'react';
+import { FC, useEffect } from 'react';
+import { useDispatch, useSelector } from '../../services/store';
+import {
+  fetchUserOrders,
+  orderSelectors
+} from '../../services/slices/order-slice';
 
 export const ProfileOrders: FC = () => {
-  /** TODO: взять переменную из стора */
-  const orders: TOrder[] = [];
+  const dispatcher = useDispatch();
+  const orders = useSelector(orderSelectors.getUserOrders);
+  const isLoading = useSelector(orderSelectors.isLoadingUserOrders);
 
-  return <ProfileOrdersUI orders={orders} />;
+  useEffect(() => {
+    dispatcher(fetchUserOrders());
+  }, []);
+
+  return <ProfileOrdersUI orders={orders} isLoadingOrders={isLoading} />;
 };

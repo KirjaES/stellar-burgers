@@ -7,12 +7,12 @@
 }
 
 .elements {
-  min-height: 100px;
+  min-height: 80px;
 
   overflow-y: scroll;
   list-style-type: none;
-  margin: 0;
   padding: 0;
+  scrollbar-width: thin;
 }
 
 .total {
