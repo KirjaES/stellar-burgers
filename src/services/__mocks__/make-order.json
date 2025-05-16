@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "name": "Флюоресцентный люминесцентный метеоритный бургер",
+  "order": {
+    "ingredients": [
+      "643d69a5c3f7b9001cfa093d",
+      "643d69a5c3f7b9001cfa093e",
+      "643d69a5c3f7b9001cfa0940",
+      "643d69a5c3f7b9001cfa093d"
+    ],
+    "_id": "6826abd5c2f30c001cb24200",
+    "owner": {
+      "name": "testgm",
+      "email": "testgm2@gmail.com",
+      "createdAt": "2025-05-16T03:06:51.783Z",
+      "updatedAt": "2025-05-16T03:06:51.783Z"
+    },
+    "status": "done",
+    "name": "Флюоресцентный люминесцентный метеоритный бургер",
+    "createdAt": "2025-05-16T03:07:01.058Z",
+    "updatedAt": "2025-05-16T03:07:01.757Z",
+    "number": 77359,
+    "price": 5964
+  }
+}

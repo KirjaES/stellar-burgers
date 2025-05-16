@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "orders": [
+    {
+      "_id": "68268353c2f30c001cb241db",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093c",
+        "643d69a5c3f7b9001cfa0943",
+        "643d69a5c3f7b9001cfa093c"
+      ],
+      "owner": "681a0214e8e61d001cec6773",
+      "status": "done",
+      "name": "Краторный space бургер",
+      "createdAt": "2025-05-16T00:14:11.823Z",
+      "updatedAt": "2025-05-16T00:14:12.644Z",
+      "number": 77358,
+      "__v": 0
+    }
+  ]
+}

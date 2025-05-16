@@ -11,7 +11,7 @@ import { burgerConstructorSlice } from './slices/burger-constructor-slice';
 import { feedsSlice } from './slices/feeds-slice';
 import { orderSlice } from './slices/order-slice';
 
-const rootReducer = {
+export const rootReducer = {
   [userSlice.name]: userSlice.reducer,
   [ingredientsSlice.name]: ingredientsSlice.reducer,
   [burgerConstructorSlice.name]: burgerConstructorSlice.reducer,

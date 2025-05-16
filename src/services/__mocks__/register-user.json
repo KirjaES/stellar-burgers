@@ -1,0 +1,6 @@
+{
+  "success": true,
+  "user": { "email": "dasdsda@gmail.com", "name": "dasdasd" },
+  "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjZiMzhlYzJmMzBjMDAxY2IyNDIwNyIsImlhdCI6MTc0NzM2Njc5OCwiZXhwIjoxNzQ3MzY3OTk4fQ.snAaX_pNh6-nlw-s7Hep04yF-2PXehzt03HOESeZQWE",
+  "refreshToken": "72af03e72466910e5197d19a7b2a56e96066127f44b67f9a44cb88978e3a2a05dff87a421ed74132"
+}

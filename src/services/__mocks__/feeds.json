@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "orders": [
+    {
+      "_id": "68268353c2f30c001cb241db",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093c",
+        "643d69a5c3f7b9001cfa0943",
+        "643d69a5c3f7b9001cfa093c"
+      ],
+      "status": "done",
+      "name": "Краторный space бургер",
+      "createdAt": "2025-05-16T00:14:11.823Z",
+      "updatedAt": "2025-05-16T00:14:12.644Z",
+      "number": 77358
+    },
+    {
+      "_id": "6826735cc2f30c001cb241c8",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093d",
+        "643d69a5c3f7b9001cfa0942",
+        "643d69a5c3f7b9001cfa093d"
+      ],
+      "status": "done",
+      "name": "Флюоресцентный spicy бургер",
+      "createdAt": "2025-05-15T23:06:04.012Z",
+      "updatedAt": "2025-05-15T23:06:04.759Z",
+      "number": 77357
+    },
+    {
+      "_id": "68267261c2f30c001cb241c5",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093d",
+        "643d69a5c3f7b9001cfa0942",
+        "643d69a5c3f7b9001cfa093d"
+      ],
+      "status": "done",
+      "name": "Флюоресцентный spicy бургер",
+      "createdAt": "2025-05-15T23:01:53.452Z",
+      "updatedAt": "2025-05-15T23:01:54.173Z",
+      "number": 77356
+    },
+    {
+      "_id": "682671acc2f30c001cb241c3",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093d",
+        "643d69a5c3f7b9001cfa0943",
+        "643d69a5c3f7b9001cfa093d"
+      ],
+      "status": "done",
+      "name": "Space флюоресцентный бургер",
+      "createdAt": "2025-05-15T22:58:52.980Z",
+      "updatedAt": "2025-05-15T22:58:53.643Z",
+      "number": 77355
+    },
+    {
+      "_id": "68267173c2f30c001cb241c1",
+      "ingredients": [
+        "643d69a5c3f7b9001cfa093d",
+        "643d69a5c3f7b9001cfa0943",
+        "643d69a5c3f7b9001cfa093d"
+      ],
+      "status": "done",
+      "name": "Space флюоресцентный бургер",
+      "createdAt": "2025-05-15T22:57:55.046Z",
+      "updatedAt": "2025-05-15T22:57:55.733Z",
+      "number": 77354
+    }
+  ],
+  "total": 76984,
+  "totalToday": 172
+}
